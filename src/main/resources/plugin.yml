@@ -1,0 +1,4 @@
+name: MinecraftPluginTemplate
+main: me.bruhdows.minecraftplugintemplate.MinecraftPluginTemplate
+api-version: 1.20
+version: 1.0
